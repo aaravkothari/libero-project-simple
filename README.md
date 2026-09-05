@@ -1,3 +1,5 @@
+Starter code from Robert Cowher, built on Amazon EC2 instance
+
 # Behavior Cloning on LIBERO
 
 A small behavior-cloning policy trained on 50 human demonstrations of a single
